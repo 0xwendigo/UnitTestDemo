@@ -3,7 +3,7 @@ script:
   - ./gradlew build
 sudo: required
 jdk:
-  - oraclejdk7
+  - oraclejdk8
 install: true
 
 android:
