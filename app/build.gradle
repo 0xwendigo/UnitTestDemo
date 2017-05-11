@@ -26,6 +26,9 @@ android {
         versionName "1.0"
         targetSdkVersion 24
     }
+    lintOptions {
+        abortOnError false
+    }
     productFlavors {
     }
 }

@@ -28,3 +28,6 @@ local.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+/app/build/
+/.idea/misc.xml
+/.idea/workspace.xml
