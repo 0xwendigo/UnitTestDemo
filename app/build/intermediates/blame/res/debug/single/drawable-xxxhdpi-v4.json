@@ -2,5 +2,9 @@
     {
         "merged": "/Users/hienton/HienData/Projects/Demo/android-testing/unit/BasicSample/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_launcher.png",
         "source": "/Users/hienton/HienData/Projects/Demo/android-testing/unit/BasicSample/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hienton/HienData/Projects/Demo/UnitTestDemo/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/hienton/HienData/Projects/Demo/UnitTestDemo/app/src/main/res/drawable-xxxhdpi/ic_launcher.png"
     }
 ]
