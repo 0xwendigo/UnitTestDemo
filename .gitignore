@@ -1,7 +1,8 @@
 /*/build/
 # Gradle generated files
 .gradle/
-
+# Local configuration file (sdk path, etc)
+local.properties
 # Signing files
 .signing/
 
