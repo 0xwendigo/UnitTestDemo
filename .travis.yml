@@ -1,5 +1,11 @@
 language: android
 script: "./gradlew build"
+sudo: required
+
+jdk:
+  - oraclejdk8
+
+install: true
 android:
   components:
     # Uncomment the lines below if you want to
