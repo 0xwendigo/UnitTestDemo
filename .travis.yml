@@ -1,17 +1,17 @@
 language: android
-script: "./gradlew build"
+script:
+  - ./gradlew build
 sudo: required
-
 jdk:
   - oraclejdk7
-
 install: true
+
 android:
   components:
     # Uncomment the lines below if you want to
     # use the latest revision of Android SDK Tools
     # - platform-tools
-     - tools
+    - tools
 
     # The BuildTools version used by your project
     - build-tools-24.0.1
@@ -30,4 +30,4 @@ android:
 #    - sys-img-armeabi-v7a-android-19
 #    - sys-img-x86-android-17
 before_install:
- - chmod +x gradlew
+  - chmod +x gradlew
